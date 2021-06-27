@@ -67,8 +67,7 @@
                              #Variáveis:
                              #cpf - recebe o cpf digitado pelo usuário
 
-import json
-import re
+import json, re
 
 def validarOpcao(string):
     eValida = bool(re.match(r"^[1-7]$", opcao))   
