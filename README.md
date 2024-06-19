@@ -1,2 +1,2 @@
-# GerenciadorDeMacAddresses
-Um programa de gerenciamento de MAC Addresses associados a CPFs.
+# Mac Address Manager
+A program for managing MAC Addresses associated with CPFs.
